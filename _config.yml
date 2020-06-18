@@ -1,4 +1,4 @@
-title: dash
+title: bilginotlarım
 author: GitHub User
 email: miguel-gonzalez@gmx.de
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -28,14 +28,14 @@ dash:
     - url: https://twitter.com/bitbrain_
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
-      icon: itch-io
-      color: red
-    - url: https://github.com/bitbrain
-      icon: github-square
-      color: purple
+    #- url: https://bitbrain.itch.io
+      #icon: itch-io
+      #color: red
+    #- url: https://github.com/bitbrain
+      #icon: github-square
+      #color: purple
 
-  show_author: true
+  show_author: false
 
 # Build settings
 theme: jekyll-dash
